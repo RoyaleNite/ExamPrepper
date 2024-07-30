@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AllNew\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllNew\QuestionForms\qBasicQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllNew\QuestionForms\qFillBlank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllNew\QuestionForms\ucNextPrev.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AllNew\QuestionForms\ucTaskCreation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="debugForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\hfrmHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionPreperation\frmExamSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TaskCollectionForm\frmDoOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TaskCollectionForm\frmInfoTaskCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TaskCollectionForm\frmInfoTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TaskCollectionForm\frmResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TaskCollectionForm\frmResultInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TaskCollectionForm\frmViewTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TaskCollectionForm\frmViewTaskCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionPreperation\frmQuestionSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionPreperation\frmQuizSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionPreperation\frmSetupSubjectFilter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionPreperation\frmSubjectSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionForms\qfrmFillBlank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionForms\qfrmMatchColumn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionForms\qfrmMultiChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionForms\qfrmQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionForms\qfrmTrueFalse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionSetupForm\cfrmFillBlank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionSetupForm\cfrmMatchColumn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionSetupForm\cfrmMultiChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionSetupForm\cfrmQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QuestionSetupForm\cfrmTrueFalse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllNew\FormTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Settings\frmUICustomization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllNew\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllNew\QuestionForms\ucMarking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\CustomGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="User Control\ucSection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

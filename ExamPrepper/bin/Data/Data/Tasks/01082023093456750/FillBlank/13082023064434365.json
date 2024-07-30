@@ -1,0 +1,33 @@
+{
+  "Task_ID": "13082023064434366",
+  "Task_Name": "Test Task 7",
+  "Task_Subject": {
+    "SubjectID": "01082023093456750",
+    "Name": "Math",
+    "Description": "Math is not fun"
+  },
+  "Question": [
+    {
+      "Question": "as dds a --- a sdads das ---  asdads  --- ",
+      "Memo": [
+        {
+          "Answer": "asd",
+          "CaseSensitive": true,
+          "CorrectMarkCount": 0
+        },
+        {
+          "Answer": "asddfgdfsg",
+          "CaseSensitive": false,
+          "CorrectMarkCount": 0
+        },
+        {
+          "Answer": "asdasfafd",
+          "CaseSensitive": false,
+          "CorrectMarkCount": 0
+        }
+      ],
+      "MarkCount": 3,
+      "QuestionType": "FillBlank"
+    }
+  ]
+}

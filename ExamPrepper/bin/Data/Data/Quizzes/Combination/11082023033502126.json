@@ -1,0 +1,91 @@
+{
+  "Exam_Info": {
+    "Exam_ID": "13082023032341777",
+    "Exam_Name": "Test Quiz 1"
+  },
+  "Sections": [
+    {
+      "Section": "Quiz",
+      "Section_Tasks": [
+        {
+          "Task_ID": "06082023031820542",
+          "Task_Name": "Test Task 1",
+          "Task_Subject": {
+            "SubjectID": "01082023093456750",
+            "Name": "Math",
+            "Description": "Math is not fun"
+          },
+          "Question": [
+            {
+              "Question": " daDAS  dsa DAS",
+              "Memo": [
+                {
+                  "Answer": "True",
+                  "CaseSensitive": false,
+                  "CorrectMarkCount": 0
+                }
+              ],
+              "MarkCount": 1,
+              "QuestionType": "TrueFalse"
+            }
+          ]
+        },
+        {
+          "Task_ID": "08082023010139241",
+          "Task_Name": "Test Task 4",
+          "Task_Subject": {
+            "SubjectID": "05082023095154328",
+            "Name": "Physics",
+            "Description": "Physics is also not fun"
+          },
+          "Question": [
+            {
+              "Question": " aa dfs adfsa dfsa dfsad fs",
+              "Memo": [
+                {
+                  "Answer": "False",
+                  "CaseSensitive": false,
+                  "CorrectMarkCount": 0
+                }
+              ],
+              "MarkCount": 2,
+              "QuestionType": "TrueFalse"
+            }
+          ]
+        },
+        {
+          "Task_ID": "06082023031903714",
+          "Task_Name": "Test Task 3",
+          "Task_Subject": {
+            "SubjectID": "06082023012136008",
+            "Name": "IGO",
+            "Description": "Teken goed"
+          },
+          "Question": [
+            {
+              "Question": "dfs adfsadsfadfs efa waefs adfs",
+              "Memo": [
+                {
+                  "Answer": "waesfr",
+                  "CaseSensitive": false,
+                  "CorrectMarkCount": 0
+                },
+                {
+                  "Answer": "ertg dfsg ",
+                  "CaseSensitive": false,
+                  "CorrectMarkCount": 0
+                }
+              ],
+              "Distractors": [
+                "shgt ",
+                "234"
+              ],
+              "MarkCount": 1,
+              "QuestionType": "MultipleChoice"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

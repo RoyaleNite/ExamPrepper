@@ -1,0 +1,1226 @@
+LOG FILE FOR 08/08/2023
+===================================================
+  Logging started
+===================================================
+================
+   New Session  
+================
+23/08/08_12:41:56 - Checking for all required folders to exist...
+23/08/08_12:41:56 - FORMHANDLER called...
+23/08/08_12:41:56 - Form does not exist in current list of active forms
+23/08/08_12:41:56 - Getting current active form's ID in the active forms list
+23/08/08_12:41:56 - REFRESHING forms...
+23/08/08_12:41:56 - App loaded with no errors!
+23/08/08_12:41:59 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:41:59 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:41:59 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:41:59 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:41:59 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:41:59 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:41:59 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:41:59 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:41:59 - FORMHANDLER called...
+23/08/08_12:41:59 - Form does not exist in current list of active forms
+23/08/08_12:41:59 - Getting current active form's ID in the active forms list
+23/08/08_12:41:59 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_12:42:23 - Checking for all required folders to exist...
+23/08/08_12:42:24 - FORMHANDLER called...
+23/08/08_12:42:24 - Form does not exist in current list of active forms
+23/08/08_12:42:24 - Getting current active form's ID in the active forms list
+23/08/08_12:42:24 - REFRESHING forms...
+23/08/08_12:42:24 - App loaded with no errors!
+23/08/08_12:42:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:42:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:42:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:42:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:42:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:42:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:42:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:42:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:42:25 - FORMHANDLER called...
+23/08/08_12:42:25 - Form does not exist in current list of active forms
+23/08/08_12:42:25 - Getting current active form's ID in the active forms list
+23/08/08_12:42:25 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_12:45:30 - Checking for all required folders to exist...
+23/08/08_12:45:30 - FORMHANDLER called...
+23/08/08_12:45:30 - Form does not exist in current list of active forms
+23/08/08_12:45:30 - Getting current active form's ID in the active forms list
+23/08/08_12:45:30 - REFRESHING forms...
+23/08/08_12:45:30 - App loaded with no errors!
+23/08/08_12:45:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:45:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:45:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:45:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:45:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:45:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:45:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:45:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:45:40 - FORMHANDLER called...
+23/08/08_12:45:40 - Form does not exist in current list of active forms
+23/08/08_12:45:41 - Getting current active form's ID in the active forms list
+23/08/08_12:45:41 - REFRESHING forms...
+23/08/08_12:45:42 - FORMHANDLER called...
+23/08/08_12:45:42 - Form does not exist in current list of active forms
+23/08/08_12:45:42 - Getting current active form's ID in the active forms list
+23/08/08_12:45:42 - REFRESHING forms...
+23/08/08_12:45:42 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:45:42 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:45:42 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:45:42 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_12:45:46 - REFRESHING forms...
+23/08/08_12:45:48 - FORMHANDLER called...
+23/08/08_12:45:48 - Form does not exist in current list of active forms
+23/08/08_12:45:48 - Getting current active form's ID in the active forms list
+23/08/08_12:45:48 - REFRESHING forms...
+23/08/08_12:45:48 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:45:48 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:45:48 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:45:48 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+================
+   New Session  
+================
+23/08/08_12:46:38 - Checking for all required folders to exist...
+23/08/08_12:46:38 - FORMHANDLER called...
+23/08/08_12:46:38 - Form does not exist in current list of active forms
+23/08/08_12:46:38 - Getting current active form's ID in the active forms list
+23/08/08_12:46:38 - REFRESHING forms...
+23/08/08_12:46:38 - App loaded with no errors!
+23/08/08_12:46:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:46:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:46:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:46:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:46:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:46:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:46:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:46:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:46:40 - FORMHANDLER called...
+23/08/08_12:46:40 - Form does not exist in current list of active forms
+23/08/08_12:46:40 - Getting current active form's ID in the active forms list
+23/08/08_12:46:40 - REFRESHING forms...
+23/08/08_12:46:41 - FORMHANDLER called...
+23/08/08_12:46:41 - Form does not exist in current list of active forms
+23/08/08_12:46:41 - Getting current active form's ID in the active forms list
+23/08/08_12:46:41 - REFRESHING forms...
+23/08/08_12:46:41 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:46:41 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:46:41 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:46:41 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+================
+   New Session  
+================
+23/08/08_12:48:12 - Checking for all required folders to exist...
+23/08/08_12:48:12 - FORMHANDLER called...
+23/08/08_12:48:12 - Form does not exist in current list of active forms
+23/08/08_12:48:12 - Getting current active form's ID in the active forms list
+23/08/08_12:48:12 - REFRESHING forms...
+23/08/08_12:48:12 - App loaded with no errors!
+23/08/08_12:48:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:48:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:48:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:48:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:48:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:48:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:48:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:48:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:48:13 - FORMHANDLER called...
+23/08/08_12:48:13 - Form does not exist in current list of active forms
+23/08/08_12:48:13 - Getting current active form's ID in the active forms list
+23/08/08_12:48:13 - REFRESHING forms...
+23/08/08_12:48:15 - FORMHANDLER called...
+23/08/08_12:48:15 - Form does not exist in current list of active forms
+23/08/08_12:48:15 - Getting current active form's ID in the active forms list
+23/08/08_12:48:15 - REFRESHING forms...
+23/08/08_12:48:15 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:15 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:15 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:15 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_12:48:16 - REFRESHING forms...
+23/08/08_12:48:17 - FORMHANDLER called...
+23/08/08_12:48:17 - Form does not exist in current list of active forms
+23/08/08_12:48:17 - Getting current active form's ID in the active forms list
+23/08/08_12:48:17 - REFRESHING forms...
+23/08/08_12:48:17 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:17 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:17 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:17 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_12:48:23 - REFRESHING forms...
+23/08/08_12:48:24 - FORMHANDLER called...
+23/08/08_12:48:24 - Form does not exist in current list of active forms
+23/08/08_12:48:24 - Getting current active form's ID in the active forms list
+23/08/08_12:48:24 - REFRESHING forms...
+23/08/08_12:48:24 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:24 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:24 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:24 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_12:48:24 - REFRESHING forms...
+23/08/08_12:48:26 - FORMHANDLER called...
+23/08/08_12:48:26 - Form does not exist in current list of active forms
+23/08/08_12:48:26 - Getting current active form's ID in the active forms list
+23/08/08_12:48:26 - REFRESHING forms...
+23/08/08_12:48:26 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:26 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:26 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:26 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_12:48:27 - REFRESHING forms...
+23/08/08_12:48:28 - FORMHANDLER called...
+23/08/08_12:48:28 - Form does not exist in current list of active forms
+23/08/08_12:48:28 - Getting current active form's ID in the active forms list
+23/08/08_12:48:28 - REFRESHING forms...
+23/08/08_12:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:28 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_12:48:29 - REFRESHING forms...
+23/08/08_12:48:30 - FORMHANDLER called...
+23/08/08_12:48:30 - Form does not exist in current list of active forms
+23/08/08_12:48:30 - Getting current active form's ID in the active forms list
+23/08/08_12:48:30 - REFRESHING forms...
+23/08/08_12:48:30 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:30 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:30 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:30 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_12:48:31 - REFRESHING forms...
+23/08/08_12:48:33 - FORMHANDLER called...
+23/08/08_12:48:33 - Form does not exist in current list of active forms
+23/08/08_12:48:33 - Getting current active form's ID in the active forms list
+23/08/08_12:48:33 - REFRESHING forms...
+23/08/08_12:48:33 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:33 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:33 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:33 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_12:48:49 - REFRESHING forms...
+23/08/08_12:48:50 - FORMHANDLER called...
+23/08/08_12:48:50 - Form does not exist in current list of active forms
+23/08/08_12:48:50 - Getting current active form's ID in the active forms list
+23/08/08_12:48:50 - REFRESHING forms...
+23/08/08_12:48:50 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:50 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:50 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:50 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_12:48:51 - REFRESHING forms...
+23/08/08_12:48:54 - FORMHANDLER called...
+23/08/08_12:48:54 - Form does not exist in current list of active forms
+23/08/08_12:48:54 - Getting current active form's ID in the active forms list
+23/08/08_12:48:54 - REFRESHING forms...
+23/08/08_12:48:54 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:54 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:54 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:48:54 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_12:48:55 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_12:57:31 - Checking for all required folders to exist...
+23/08/08_12:57:31 - FORMHANDLER called...
+23/08/08_12:57:31 - Form does not exist in current list of active forms
+23/08/08_12:57:31 - Getting current active form's ID in the active forms list
+23/08/08_12:57:31 - REFRESHING forms...
+23/08/08_12:57:31 - App loaded with no errors!
+23/08/08_12:57:35 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:57:35 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:57:35 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:57:35 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:57:35 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:57:35 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:57:35 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:57:35 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:57:35 - FORMHANDLER called...
+23/08/08_12:57:35 - Form does not exist in current list of active forms
+================
+   New Session  
+================
+23/08/08_12:58:39 - Checking for all required folders to exist...
+23/08/08_12:58:39 - FORMHANDLER called...
+23/08/08_12:58:39 - Form does not exist in current list of active forms
+23/08/08_12:58:39 - Getting current active form's ID in the active forms list
+23/08/08_12:58:39 - REFRESHING forms...
+23/08/08_12:58:39 - App loaded with no errors!
+23/08/08_12:58:50 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:58:50 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:58:50 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:58:50 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:58:50 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:58:50 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:58:50 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:58:50 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_12:58:50 - FORMHANDLER called...
+23/08/08_12:58:50 - Form does not exist in current list of active forms
+23/08/08_12:58:50 - Getting current active form's ID in the active forms list
+23/08/08_12:58:50 - REFRESHING forms...
+23/08/08_12:58:53 - FORMHANDLER called...
+23/08/08_12:58:53 - Form does not exist in current list of active forms
+23/08/08_12:58:53 - Getting current active form's ID in the active forms list
+23/08/08_12:58:53 - REFRESHING forms...
+23/08/08_12:58:53 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:58:53 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:58:53 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:58:53 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_12:59:00 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:59:00 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_12:59:00 - Adding ExamPrepper.Classes.ExamFormData+Exam to JSON data located in './Data/Quizzes\Combination\07082023091329273.json'
+23/08/08_12:59:00 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Exam] to JSON data
+================
+   New Session  
+================
+23/08/08_01:00:58 - Checking for all required folders to exist...
+23/08/08_01:00:58 - FORMHANDLER called...
+23/08/08_01:00:58 - Form does not exist in current list of active forms
+23/08/08_01:00:58 - Getting current active form's ID in the active forms list
+23/08/08_01:00:58 - REFRESHING forms...
+23/08/08_01:00:58 - App loaded with no errors!
+23/08/08_01:01:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:01:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:01:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:01:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:01:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:01:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:01:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:01:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:01:24 - FORMHANDLER called...
+23/08/08_01:01:24 - Form does not exist in current list of active forms
+23/08/08_01:01:25 - Getting current active form's ID in the active forms list
+23/08/08_01:01:25 - REFRESHING forms...
+23/08/08_01:01:26 - REFRESHING forms...
+23/08/08_01:01:27 - FORMHANDLER called...
+23/08/08_01:01:27 - Form does not exist in current list of active forms
+23/08/08_01:01:27 - Getting current active form's ID in the active forms list
+23/08/08_01:01:27 - REFRESHING forms...
+23/08/08_01:01:27 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:01:27 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:01:31 - FORMHANDLER called...
+23/08/08_01:01:31 - Form does not exist in current list of active forms
+23/08/08_01:01:31 - Getting current active form's ID in the active forms list
+23/08/08_01:01:31 - REFRESHING forms...
+23/08/08_01:01:39 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:01:39 - Serializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:01:40 - REFRESHING forms...
+23/08/08_01:01:40 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:01:53 - REFRESHING forms...
+23/08/08_01:01:54 - REFRESHING forms...
+23/08/08_01:01:57 - FORMHANDLER called...
+23/08/08_01:01:57 - Form does not exist in current list of active forms
+23/08/08_01:01:57 - Getting current active form's ID in the active forms list
+23/08/08_01:01:57 - REFRESHING forms...
+23/08/08_01:01:57 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:01:57 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:01:57 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:01:57 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:01:57 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:02:11 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:02:11 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:02:11 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:02:11 - Serializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:13 - REFRESHING forms...
+23/08/08_01:02:13 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:02:14 - REFRESHING forms...
+23/08/08_01:02:16 - REFRESHING forms...
+23/08/08_01:02:17 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:17 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:17 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:17 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:17 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:17 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:17 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:17 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:17 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:17 - FORMHANDLER called...
+23/08/08_01:02:17 - Form exists in current list of active form (Selecting form to show from list).
+23/08/08_01:02:17 - Getting current active form's ID in the active forms list
+23/08/08_01:02:17 - REFRESHING forms...
+23/08/08_01:02:18 - FORMHANDLER called...
+23/08/08_01:02:18 - Force closing all current active forms.
+23/08/08_01:02:18 - Force closing all current active forms.
+23/08/08_01:02:18 - Force closing all current active forms.
+23/08/08_01:02:18 - Form does not exist in current list of active forms
+23/08/08_01:02:18 - Getting current active form's ID in the active forms list
+23/08/08_01:02:18 - REFRESHING forms...
+23/08/08_01:02:19 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:19 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:19 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:19 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:19 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:19 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:19 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:19 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:19 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:02:19 - FORMHANDLER called...
+23/08/08_01:02:19 - Form does not exist in current list of active forms
+23/08/08_01:02:19 - Getting current active form's ID in the active forms list
+23/08/08_01:02:19 - REFRESHING forms...
+23/08/08_01:02:21 - FORMHANDLER called...
+23/08/08_01:02:21 - Form does not exist in current list of active forms
+23/08/08_01:02:21 - Getting current active form's ID in the active forms list
+23/08/08_01:02:21 - REFRESHING forms...
+23/08/08_01:02:21 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:02:21 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:02:21 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:02:21 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:02:21 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:02:36 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:02:36 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:02:36 - Adding ExamPrepper.Classes.ExamFormData+Exam to JSON data located in './Data/Quizzes\Combination\08082023010211903.json'
+23/08/08_01:02:36 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Exam] to JSON data
+================
+   New Session  
+================
+23/08/08_01:02:46 - Checking for all required folders to exist...
+23/08/08_01:02:46 - FORMHANDLER called...
+23/08/08_01:02:46 - Form does not exist in current list of active forms
+23/08/08_01:02:46 - Getting current active form's ID in the active forms list
+23/08/08_01:02:46 - REFRESHING forms...
+23/08/08_01:02:46 - App loaded with no errors!
+23/08/08_01:02:49 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:04:43 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:04:44 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:04:45 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:04:46 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:04:47 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:04:48 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:04:48 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:04:49 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:04:49 - FORMHANDLER called...
+23/08/08_01:04:49 - Form does not exist in current list of active forms
+23/08/08_01:04:49 - Getting current active form's ID in the active forms list
+23/08/08_01:04:49 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_01:04:56 - Checking for all required folders to exist...
+23/08/08_01:04:56 - FORMHANDLER called...
+23/08/08_01:04:56 - Form does not exist in current list of active forms
+23/08/08_01:04:56 - Getting current active form's ID in the active forms list
+23/08/08_01:04:56 - REFRESHING forms...
+23/08/08_01:04:56 - App loaded with no errors!
+================
+   New Session  
+================
+23/08/08_01:05:27 - Checking for all required folders to exist...
+23/08/08_01:05:27 - FORMHANDLER called...
+23/08/08_01:05:27 - Form does not exist in current list of active forms
+23/08/08_01:05:27 - Getting current active form's ID in the active forms list
+23/08/08_01:05:27 - REFRESHING forms...
+23/08/08_01:05:27 - App loaded with no errors!
+23/08/08_01:05:49 - FORMHANDLER called...
+23/08/08_01:05:49 - Form does not exist in current list of active forms
+23/08/08_01:05:49 - Getting current active form's ID in the active forms list
+23/08/08_01:05:49 - REFRESHING forms...
+23/08/08_01:05:49 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:05:54 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:05:56 - FORMHANDLER called...
+23/08/08_01:05:56 - Form does not exist in current list of active forms
+23/08/08_01:05:56 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:06:01 - Adding ExamPrepper.Classes.ExamFormData+Subject to JSON data located in './Data/Subjects.json'
+23/08/08_01:06:01 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:06:01 - Serializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:06:01 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:06:01 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:06:05 - Adding ExamPrepper.Classes.ExamFormData+Subject to JSON data located in './Data/Subjects.json'
+23/08/08_01:06:05 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:06:05 - Serializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:06:05 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:06:05 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:06:06 - Getting current active form's ID in the active forms list
+23/08/08_01:06:06 - REFRESHING forms...
+23/08/08_01:06:06 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+================
+   New Session  
+================
+23/08/08_01:10:48 - Checking for all required folders to exist...
+23/08/08_01:10:48 - FORMHANDLER called...
+23/08/08_01:10:48 - Form does not exist in current list of active forms
+23/08/08_01:10:48 - Getting current active form's ID in the active forms list
+23/08/08_01:10:48 - REFRESHING forms...
+23/08/08_01:10:48 - App loaded with no errors!
+23/08/08_01:10:52 - FORMHANDLER called...
+23/08/08_01:10:52 - Form does not exist in current list of active forms
+23/08/08_01:10:52 - Getting current active form's ID in the active forms list
+23/08/08_01:10:52 - REFRESHING forms...
+23/08/08_01:10:52 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:10:53 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:10:53 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:10:53 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:10:53 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:10:54 - REFRESHING forms...
+23/08/08_01:10:56 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:10:56 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:10:56 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:10:56 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:10:56 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:10:56 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:10:56 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:10:56 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:10:56 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:10:56 - FORMHANDLER called...
+23/08/08_01:10:56 - Form does not exist in current list of active forms
+23/08/08_01:10:56 - Getting current active form's ID in the active forms list
+23/08/08_01:10:56 - REFRESHING forms...
+23/08/08_01:10:58 - FORMHANDLER called...
+23/08/08_01:10:58 - Form does not exist in current list of active forms
+23/08/08_01:10:58 - Getting current active form's ID in the active forms list
+23/08/08_01:10:58 - REFRESHING forms...
+23/08/08_01:10:58 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:10:58 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:10:58 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:10:58 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:10:58 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:11:01 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:11:01 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:11:01 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:11:01 - Adding ExamPrepper.Classes.ExamFormData+Exam to JSON data located in './Data/Quizzes\Combination\08082023010211903.json'
+23/08/08_01:11:01 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Exam] to JSON data
+================
+   New Session  
+================
+23/08/08_01:15:43 - Checking for all required folders to exist...
+23/08/08_01:15:43 - FORMHANDLER called...
+23/08/08_01:15:43 - Form does not exist in current list of active forms
+23/08/08_01:15:43 - Getting current active form's ID in the active forms list
+23/08/08_01:15:43 - REFRESHING forms...
+23/08/08_01:15:43 - App loaded with no errors!
+23/08/08_01:15:44 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:15:44 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:15:44 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:15:44 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:15:44 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:15:44 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:15:44 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:15:44 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:15:44 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:15:44 - FORMHANDLER called...
+23/08/08_01:15:44 - Form does not exist in current list of active forms
+23/08/08_01:15:44 - Getting current active form's ID in the active forms list
+23/08/08_01:15:44 - REFRESHING forms...
+23/08/08_01:15:45 - FORMHANDLER called...
+23/08/08_01:15:45 - Form does not exist in current list of active forms
+23/08/08_01:15:46 - Getting current active form's ID in the active forms list
+23/08/08_01:15:46 - REFRESHING forms...
+23/08/08_01:15:46 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:15:46 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:15:46 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:15:46 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:15:46 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:15:50 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:15:50 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:15:50 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:15:50 - Adding ExamPrepper.Classes.ExamFormData+Exam to JSON data located in './Data/Quizzes\Combination\08082023010211903.json'
+23/08/08_01:15:50 - Serializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:15:57 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:15:57 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:15:57 - Adding ExamPrepper.Classes.ExamFormData+Exam to JSON data located in './Data/Quizzes\Combination\08082023010211903.json'
+23/08/08_01:15:57 - Serializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:15:58 - REFRESHING forms...
+23/08/08_01:16:00 - FORMHANDLER called...
+23/08/08_01:16:00 - Force closing all current active forms.
+23/08/08_01:16:00 - Force closing all current active forms.
+23/08/08_01:16:00 - Form does not exist in current list of active forms
+23/08/08_01:16:00 - Getting current active form's ID in the active forms list
+23/08/08_01:16:00 - REFRESHING forms...
+23/08/08_01:16:00 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:16:00 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:16:00 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:16:00 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:16:00 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:16:00 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:16:00 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:16:00 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:16:00 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:16:00 - FORMHANDLER called...
+23/08/08_01:16:00 - Form does not exist in current list of active forms
+23/08/08_01:16:00 - Getting current active form's ID in the active forms list
+23/08/08_01:16:00 - REFRESHING forms...
+23/08/08_01:16:53 - FORMHANDLER called...
+23/08/08_01:16:53 - Form does not exist in current list of active forms
+23/08/08_01:16:53 - Getting current active form's ID in the active forms list
+23/08/08_01:16:53 - REFRESHING forms...
+23/08/08_01:16:53 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:16:53 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:16:53 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:16:53 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:16:53 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:16:59 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:16:59 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:16:59 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:16:59 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:16:59 - Adding ExamPrepper.Classes.ExamFormData+Exam to JSON data located in './Data/Quizzes\Combination\08082023010211903.json'
+23/08/08_01:16:59 - Serializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:17:00 - REFRESHING forms...
+23/08/08_01:17:01 - FORMHANDLER called...
+23/08/08_01:17:01 - Force closing all current active forms.
+23/08/08_01:17:01 - Force closing all current active forms.
+23/08/08_01:17:01 - Form does not exist in current list of active forms
+23/08/08_01:17:01 - Getting current active form's ID in the active forms list
+23/08/08_01:17:01 - REFRESHING forms...
+23/08/08_01:17:02 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:17:02 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:17:02 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:17:02 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:17:02 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:17:02 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:17:02 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:17:02 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:17:02 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:17:02 - FORMHANDLER called...
+23/08/08_01:17:02 - Form does not exist in current list of active forms
+23/08/08_01:17:02 - Getting current active form's ID in the active forms list
+23/08/08_01:17:02 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_01:18:54 - Checking for all required folders to exist...
+23/08/08_01:18:54 - FORMHANDLER called...
+23/08/08_01:18:54 - Form does not exist in current list of active forms
+23/08/08_01:18:54 - Getting current active form's ID in the active forms list
+23/08/08_01:18:54 - REFRESHING forms...
+23/08/08_01:18:54 - App loaded with no errors!
+23/08/08_01:18:57 - FORMHANDLER called...
+23/08/08_01:18:57 - Form does not exist in current list of active forms
+23/08/08_01:18:57 - Getting current active form's ID in the active forms list
+23/08/08_01:18:57 - REFRESHING forms...
+23/08/08_01:18:57 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:18:57 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:18:57 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:18:57 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:18:57 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:19:02 - FORMHANDLER called...
+23/08/08_01:19:02 - Form does not exist in current list of active forms
+23/08/08_01:19:02 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:19:03 - Getting current active form's ID in the active forms list
+23/08/08_01:19:03 - REFRESHING forms...
+23/08/08_01:19:14 - FORMHANDLER called...
+23/08/08_01:19:14 - Form does not exist in current list of active forms
+23/08/08_01:19:14 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:19:17 - Getting current active form's ID in the active forms list
+23/08/08_01:19:17 - REFRESHING forms...
+23/08/08_01:19:18 - FORMHANDLER called...
+23/08/08_01:19:18 - Form does not exist in current list of active forms
+23/08/08_01:19:18 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:19:19 - Getting current active form's ID in the active forms list
+23/08/08_01:19:19 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_09:10:24 - Checking for all required folders to exist...
+23/08/08_09:10:24 - FORMHANDLER called...
+23/08/08_09:10:24 - Form does not exist in current list of active forms
+23/08/08_09:10:24 - Getting current active form's ID in the active forms list
+23/08/08_09:10:24 - REFRESHING forms...
+23/08/08_09:10:24 - App loaded with no errors!
+================
+   New Session  
+================
+23/08/08_09:11:58 - Checking for all required folders to exist...
+23/08/08_09:11:58 - FORMHANDLER called...
+23/08/08_09:11:58 - Form does not exist in current list of active forms
+23/08/08_09:11:58 - Getting current active form's ID in the active forms list
+23/08/08_09:11:58 - REFRESHING forms...
+23/08/08_09:11:58 - App loaded with no errors!
+23/08/08_09:12:12 - FORMHANDLER called...
+23/08/08_09:12:12 - Form does not exist in current list of active forms
+23/08/08_09:12:12 - Getting current active form's ID in the active forms list
+23/08/08_09:12:12 - REFRESHING forms...
+23/08/08_09:12:12 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:12:13 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:12:13 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:12:13 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:12:13 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:12:28 - FORMHANDLER called...
+23/08/08_09:12:28 - Form does not exist in current list of active forms
+23/08/08_09:12:28 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:12:30 - Getting current active form's ID in the active forms list
+23/08/08_09:12:30 - REFRESHING forms...
+23/08/08_09:12:31 - FORMHANDLER called...
+23/08/08_09:12:31 - Form does not exist in current list of active forms
+23/08/08_09:12:31 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:12:33 - Getting current active form's ID in the active forms list
+23/08/08_09:12:33 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_09:14:17 - Checking for all required folders to exist...
+23/08/08_09:14:17 - FORMHANDLER called...
+23/08/08_09:14:17 - Form does not exist in current list of active forms
+23/08/08_09:14:17 - Getting current active form's ID in the active forms list
+23/08/08_09:14:17 - REFRESHING forms...
+23/08/08_09:14:17 - App loaded with no errors!
+23/08/08_09:14:19 - FORMHANDLER called...
+23/08/08_09:14:19 - Form does not exist in current list of active forms
+23/08/08_09:14:19 - Getting current active form's ID in the active forms list
+23/08/08_09:14:19 - REFRESHING forms...
+23/08/08_09:14:19 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:14:19 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:14:19 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:14:19 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:14:19 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:14:27 - FORMHANDLER called...
+23/08/08_09:14:27 - Form does not exist in current list of active forms
+23/08/08_09:14:27 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:14:29 - Getting current active form's ID in the active forms list
+23/08/08_09:14:29 - REFRESHING forms...
+23/08/08_09:14:32 - FORMHANDLER called...
+23/08/08_09:14:32 - Form does not exist in current list of active forms
+23/08/08_09:14:32 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:14:35 - Getting current active form's ID in the active forms list
+23/08/08_09:14:35 - REFRESHING forms...
+23/08/08_09:14:41 - FORMHANDLER called...
+23/08/08_09:14:41 - Form does not exist in current list of active forms
+23/08/08_09:14:41 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:14:43 - Getting current active form's ID in the active forms list
+23/08/08_09:14:43 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_09:15:12 - Checking for all required folders to exist...
+23/08/08_09:15:12 - FORMHANDLER called...
+23/08/08_09:15:12 - Form does not exist in current list of active forms
+23/08/08_09:15:12 - Getting current active form's ID in the active forms list
+23/08/08_09:15:12 - REFRESHING forms...
+23/08/08_09:15:12 - App loaded with no errors!
+23/08/08_09:15:13 - FORMHANDLER called...
+23/08/08_09:15:13 - Form does not exist in current list of active forms
+23/08/08_09:15:13 - Getting current active form's ID in the active forms list
+23/08/08_09:15:13 - REFRESHING forms...
+23/08/08_09:15:13 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:15:14 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:15:14 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:15:14 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:15:14 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:15:17 - FORMHANDLER called...
+23/08/08_09:15:17 - Form does not exist in current list of active forms
+23/08/08_09:15:17 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:15:20 - Getting current active form's ID in the active forms list
+23/08/08_09:15:20 - REFRESHING forms...
+23/08/08_09:15:24 - FORMHANDLER called...
+23/08/08_09:15:24 - Form does not exist in current list of active forms
+23/08/08_09:15:24 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+================
+   New Session  
+================
+23/08/08_09:15:48 - Checking for all required folders to exist...
+23/08/08_09:15:48 - FORMHANDLER called...
+23/08/08_09:15:48 - Form does not exist in current list of active forms
+23/08/08_09:15:48 - Getting current active form's ID in the active forms list
+23/08/08_09:15:48 - REFRESHING forms...
+23/08/08_09:15:48 - App loaded with no errors!
+23/08/08_09:15:49 - FORMHANDLER called...
+23/08/08_09:15:49 - Form does not exist in current list of active forms
+23/08/08_09:15:49 - Getting current active form's ID in the active forms list
+23/08/08_09:15:49 - REFRESHING forms...
+23/08/08_09:15:49 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:15:49 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:15:49 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:15:49 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:15:49 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:15:53 - FORMHANDLER called...
+23/08/08_09:15:53 - Form does not exist in current list of active forms
+23/08/08_09:15:53 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:15:54 - Getting current active form's ID in the active forms list
+23/08/08_09:15:54 - REFRESHING forms...
+23/08/08_09:15:57 - REFRESHING forms...
+23/08/08_09:15:58 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:15:58 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:15:58 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:15:58 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:15:58 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:15:58 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:15:58 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:15:58 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:15:58 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:15:58 - FORMHANDLER called...
+23/08/08_09:15:58 - Form does not exist in current list of active forms
+23/08/08_09:15:58 - Getting current active form's ID in the active forms list
+23/08/08_09:15:58 - REFRESHING forms...
+23/08/08_09:16:02 - REFRESHING forms...
+23/08/08_09:16:03 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:03 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:03 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:03 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:03 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:03 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:03 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:03 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:03 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:03 - FORMHANDLER called...
+23/08/08_09:16:03 - Form exists in current list of active form (Selecting form to show from list).
+23/08/08_09:16:03 - Getting current active form's ID in the active forms list
+23/08/08_09:16:03 - REFRESHING forms...
+23/08/08_09:16:15 - FORMHANDLER called...
+23/08/08_09:16:15 - Form does not exist in current list of active forms
+23/08/08_09:16:15 - Getting current active form's ID in the active forms list
+23/08/08_09:16:15 - REFRESHING forms...
+23/08/08_09:16:15 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:16:15 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:16:15 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:16:15 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:16:15 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_09:16:38 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_09:16:38 - Adding ExamPrepper.Classes.ExamFormData+Exam to JSON data located in './Data/Quizzes\Combination\07082023091329273.json'
+23/08/08_09:16:38 - Serializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:40 - FORMHANDLER called...
+23/08/08_09:16:40 - Force closing all current active forms.
+23/08/08_09:16:40 - Force closing all current active forms.
+23/08/08_09:16:40 - Force closing all current active forms.
+23/08/08_09:16:40 - Form does not exist in current list of active forms
+23/08/08_09:16:40 - Getting current active form's ID in the active forms list
+23/08/08_09:16:40 - REFRESHING forms...
+23/08/08_09:16:41 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:41 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:41 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:41 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:41 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:41 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:41 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:41 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:41 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_09:16:41 - FORMHANDLER called...
+23/08/08_09:16:41 - Form does not exist in current list of active forms
+23/08/08_09:16:41 - Getting current active form's ID in the active forms list
+23/08/08_09:16:41 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_01:46:53 - Checking for all required folders to exist...
+23/08/08_01:46:53 - FORMHANDLER called...
+23/08/08_01:46:53 - Form does not exist in current list of active forms
+23/08/08_01:46:53 - Getting current active form's ID in the active forms list
+23/08/08_01:46:53 - REFRESHING forms...
+23/08/08_01:46:53 - App loaded with no errors!
+23/08/08_01:47:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:47:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:47:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:47:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:47:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:47:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:47:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:47:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:47:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:47:13 - FORMHANDLER called...
+23/08/08_01:47:13 - Form does not exist in current list of active forms
+23/08/08_01:47:13 - Getting current active form's ID in the active forms list
+23/08/08_01:47:13 - REFRESHING forms...
+23/08/08_01:47:14 - REFRESHING forms...
+23/08/08_01:47:35 - FORMHANDLER called...
+23/08/08_01:47:35 - Form does not exist in current list of active forms
+23/08/08_01:47:36 - Getting current active form's ID in the active forms list
+23/08/08_01:47:36 - REFRESHING forms...
+23/08/08_01:47:36 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:47:36 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:47:36 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:47:36 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:47:36 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:47:38 - REFRESHING forms...
+23/08/08_01:47:40 - REFRESHING forms...
+23/08/08_01:47:41 - FORMHANDLER called...
+23/08/08_01:47:41 - Form does not exist in current list of active forms
+23/08/08_01:47:41 - Getting current active form's ID in the active forms list
+23/08/08_01:47:41 - REFRESHING forms...
+23/08/08_01:47:41 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:47:41 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:47:41 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:47:41 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:47:41 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:47:51 - FORMHANDLER called...
+23/08/08_01:47:51 - Form does not exist in current list of active forms
+23/08/08_01:47:51 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:47:59 - Getting current active form's ID in the active forms list
+23/08/08_01:47:59 - REFRESHING forms...
+23/08/08_01:48:00 - FORMHANDLER called...
+23/08/08_01:48:00 - Form does not exist in current list of active forms
+23/08/08_01:48:00 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:48:03 - Getting current active form's ID in the active forms list
+23/08/08_01:48:03 - REFRESHING forms...
+23/08/08_01:48:04 - FORMHANDLER called...
+23/08/08_01:48:04 - Form does not exist in current list of active forms
+23/08/08_01:48:04 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:48:08 - Getting current active form's ID in the active forms list
+23/08/08_01:48:08 - REFRESHING forms...
+23/08/08_01:48:08 - FORMHANDLER called...
+23/08/08_01:48:08 - Form does not exist in current list of active forms
+23/08/08_01:48:08 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:48:11 - Getting current active form's ID in the active forms list
+23/08/08_01:48:11 - REFRESHING forms...
+23/08/08_01:48:25 - REFRESHING forms...
+23/08/08_01:48:27 - FORMHANDLER called...
+23/08/08_01:48:27 - Force closing all current active forms.
+23/08/08_01:48:27 - Force closing all current active forms.
+23/08/08_01:48:27 - Form does not exist in current list of active forms
+23/08/08_01:48:27 - Getting current active form's ID in the active forms list
+23/08/08_01:48:27 - REFRESHING forms...
+23/08/08_01:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:28 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:28 - FORMHANDLER called...
+23/08/08_01:48:28 - Form does not exist in current list of active forms
+23/08/08_01:48:28 - Getting current active form's ID in the active forms list
+23/08/08_01:48:28 - REFRESHING forms...
+23/08/08_01:48:35 - FORMHANDLER called...
+23/08/08_01:48:35 - Form does not exist in current list of active forms
+23/08/08_01:48:35 - Getting current active form's ID in the active forms list
+23/08/08_01:48:35 - REFRESHING forms...
+23/08/08_01:48:35 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:48:35 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:48:35 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:48:35 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:48:35 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:48:49 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:48:49 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:48:49 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:48:49 - Adding ExamPrepper.Classes.ExamFormData+Exam to JSON data located in './Data/Quizzes\Combination\07082023091329273.json'
+23/08/08_01:48:49 - Serializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:50 - FORMHANDLER called...
+23/08/08_01:48:50 - Force closing all current active forms.
+23/08/08_01:48:50 - Force closing all current active forms.
+23/08/08_01:48:50 - Force closing all current active forms.
+23/08/08_01:48:50 - Form does not exist in current list of active forms
+23/08/08_01:48:50 - Getting current active form's ID in the active forms list
+23/08/08_01:48:50 - REFRESHING forms...
+23/08/08_01:48:51 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:51 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:51 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:51 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:51 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:51 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:51 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:51 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:51 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:48:51 - FORMHANDLER called...
+23/08/08_01:48:51 - Form does not exist in current list of active forms
+23/08/08_01:48:51 - Getting current active form's ID in the active forms list
+23/08/08_01:48:51 - REFRESHING forms...
+23/08/08_01:48:54 - FORMHANDLER called...
+23/08/08_01:48:54 - Form does not exist in current list of active forms
+23/08/08_01:48:54 - Getting current active form's ID in the active forms list
+23/08/08_01:48:54 - REFRESHING forms...
+23/08/08_01:48:54 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:48:54 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:48:54 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:48:54 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:48:54 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+================
+   New Session  
+================
+23/08/08_01:49:56 - Checking for all required folders to exist...
+23/08/08_01:49:56 - FORMHANDLER called...
+23/08/08_01:49:56 - Form does not exist in current list of active forms
+23/08/08_01:49:57 - Getting current active form's ID in the active forms list
+23/08/08_01:49:57 - REFRESHING forms...
+23/08/08_01:49:57 - App loaded with no errors!
+23/08/08_01:49:59 - FORMHANDLER called...
+23/08/08_01:49:59 - Form does not exist in current list of active forms
+23/08/08_01:49:59 - Getting current active form's ID in the active forms list
+23/08/08_01:49:59 - REFRESHING forms...
+23/08/08_01:49:59 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:49:59 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:49:59 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:49:59 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:49:59 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:50:02 - FORMHANDLER called...
+23/08/08_01:50:02 - Form does not exist in current list of active forms
+23/08/08_01:50:02 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:50:06 - Getting current active form's ID in the active forms list
+23/08/08_01:50:06 - REFRESHING forms...
+23/08/08_01:50:07 - FORMHANDLER called...
+23/08/08_01:50:07 - Force closing all current active forms.
+23/08/08_01:50:07 - Force closing all current active forms.
+23/08/08_01:50:07 - Form does not exist in current list of active forms
+23/08/08_01:50:07 - Getting current active form's ID in the active forms list
+23/08/08_01:50:07 - REFRESHING forms...
+23/08/08_01:50:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:13 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:13 - FORMHANDLER called...
+23/08/08_01:50:13 - Form does not exist in current list of active forms
+23/08/08_01:50:13 - Getting current active form's ID in the active forms list
+23/08/08_01:50:13 - REFRESHING forms...
+23/08/08_01:50:22 - REFRESHING forms...
+23/08/08_01:50:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:24 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:24 - FORMHANDLER called...
+23/08/08_01:50:24 - Form exists in current list of active form (Selecting form to show from list).
+23/08/08_01:50:24 - Getting current active form's ID in the active forms list
+23/08/08_01:50:24 - REFRESHING forms...
+23/08/08_01:50:25 - REFRESHING forms...
+23/08/08_01:50:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_01:50:27 - FORMHANDLER called...
+23/08/08_01:50:27 - Form exists in current list of active form (Selecting form to show from list).
+23/08/08_01:50:27 - Getting current active form's ID in the active forms list
+23/08/08_01:50:27 - REFRESHING forms...
+23/08/08_01:50:28 - REFRESHING forms...
+23/08/08_01:50:30 - FORMHANDLER called...
+23/08/08_01:50:30 - Form does not exist in current list of active forms
+23/08/08_01:50:30 - Getting current active form's ID in the active forms list
+23/08/08_01:50:30 - REFRESHING forms...
+23/08/08_01:50:30 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:50:30 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:50:30 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:50:30 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_01:50:30 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_01:50:31 - REFRESHING forms...
+23/08/08_01:50:33 - FORMHANDLER called...
+23/08/08_01:50:33 - Force closing all current active forms.
+23/08/08_01:50:33 - Force closing all current active forms.
+23/08/08_01:50:33 - Form does not exist in current list of active forms
+23/08/08_01:50:33 - Getting current active form's ID in the active forms list
+23/08/08_01:50:33 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_10:01:22 - Checking for all required folders to exist...
+23/08/08_10:01:22 - FORMHANDLER called...
+23/08/08_10:01:22 - Form does not exist in current list of active forms
+23/08/08_10:01:23 - Getting current active form's ID in the active forms list
+23/08/08_10:01:23 - REFRESHING forms...
+23/08/08_10:01:23 - App loaded with no errors!
+23/08/08_10:01:25 - FORMHANDLER called...
+23/08/08_10:01:25 - Form does not exist in current list of active forms
+23/08/08_10:01:26 - Getting current active form's ID in the active forms list
+23/08/08_10:01:26 - REFRESHING forms...
+23/08/08_10:01:26 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:01:26 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:01:26 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:01:26 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:01:26 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+================
+   New Session  
+================
+23/08/08_10:05:35 - Checking for all required folders to exist...
+23/08/08_10:05:35 - FORMHANDLER called...
+23/08/08_10:05:35 - Form does not exist in current list of active forms
+23/08/08_10:05:35 - Getting current active form's ID in the active forms list
+23/08/08_10:05:35 - REFRESHING forms...
+23/08/08_10:05:35 - App loaded with no errors!
+23/08/08_10:05:37 - FORMHANDLER called...
+23/08/08_10:05:37 - Form does not exist in current list of active forms
+23/08/08_10:05:37 - Getting current active form's ID in the active forms list
+23/08/08_10:05:37 - REFRESHING forms...
+23/08/08_10:05:37 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:05:37 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:05:37 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:05:37 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:05:37 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+================
+   New Session  
+================
+23/08/08_10:06:22 - Checking for all required folders to exist...
+23/08/08_10:06:22 - FORMHANDLER called...
+23/08/08_10:06:22 - Form does not exist in current list of active forms
+23/08/08_10:06:22 - Getting current active form's ID in the active forms list
+23/08/08_10:06:22 - REFRESHING forms...
+23/08/08_10:06:22 - App loaded with no errors!
+23/08/08_10:06:23 - FORMHANDLER called...
+23/08/08_10:06:23 - Form does not exist in current list of active forms
+23/08/08_10:06:23 - Getting current active form's ID in the active forms list
+23/08/08_10:06:23 - REFRESHING forms...
+23/08/08_10:06:23 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:23 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:23 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:23 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:23 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_10:06:25 - REFRESHING forms...
+23/08/08_10:06:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:06:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:06:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:06:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:06:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:06:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:06:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:06:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:06:25 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:06:25 - FORMHANDLER called...
+23/08/08_10:06:25 - Form does not exist in current list of active forms
+23/08/08_10:06:25 - Getting current active form's ID in the active forms list
+23/08/08_10:06:25 - REFRESHING forms...
+23/08/08_10:06:27 - FORMHANDLER called...
+23/08/08_10:06:27 - Form does not exist in current list of active forms
+23/08/08_10:06:27 - Getting current active form's ID in the active forms list
+23/08/08_10:06:27 - REFRESHING forms...
+23/08/08_10:06:27 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:27 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:27 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:27 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:27 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_10:06:29 - REFRESHING forms...
+23/08/08_10:06:32 - FORMHANDLER called...
+23/08/08_10:06:32 - Form does not exist in current list of active forms
+23/08/08_10:06:32 - Getting current active form's ID in the active forms list
+23/08/08_10:06:32 - REFRESHING forms...
+23/08/08_10:06:32 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:32 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:32 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:32 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:06:32 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_10:06:34 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_10:16:51 - Checking for all required folders to exist...
+23/08/08_10:16:51 - FORMHANDLER called...
+23/08/08_10:16:51 - Form does not exist in current list of active forms
+23/08/08_10:16:51 - Getting current active form's ID in the active forms list
+23/08/08_10:16:51 - REFRESHING forms...
+23/08/08_10:16:51 - App loaded with no errors!
+23/08/08_10:17:17 - FORMHANDLER called...
+23/08/08_10:17:17 - Form does not exist in current list of active forms
+23/08/08_10:17:17 - Getting current active form's ID in the active forms list
+23/08/08_10:17:17 - REFRESHING forms...
+23/08/08_10:17:17 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:17:17 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:17:17 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:17:17 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:17:17 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_10:17:28 - REFRESHING forms...
+23/08/08_10:17:29 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:29 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:29 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:29 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:29 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:29 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:29 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:29 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:29 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:29 - FORMHANDLER called...
+23/08/08_10:17:29 - Form does not exist in current list of active forms
+23/08/08_10:17:29 - Getting current active form's ID in the active forms list
+23/08/08_10:17:29 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_10:17:39 - Checking for all required folders to exist...
+23/08/08_10:17:39 - FORMHANDLER called...
+23/08/08_10:17:39 - Form does not exist in current list of active forms
+23/08/08_10:17:39 - Getting current active form's ID in the active forms list
+23/08/08_10:17:39 - REFRESHING forms...
+23/08/08_10:17:39 - App loaded with no errors!
+23/08/08_10:17:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:40 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:40 - FORMHANDLER called...
+23/08/08_10:17:40 - Form does not exist in current list of active forms
+23/08/08_10:17:40 - Getting current active form's ID in the active forms list
+23/08/08_10:17:40 - REFRESHING forms...
+23/08/08_10:17:44 - FORMHANDLER called...
+23/08/08_10:17:44 - Force closing all current active forms.
+23/08/08_10:17:44 - Force closing all current active forms.
+23/08/08_10:17:44 - Form does not exist in current list of active forms
+23/08/08_10:17:44 - Getting current active form's ID in the active forms list
+23/08/08_10:17:44 - REFRESHING forms...
+23/08/08_10:17:46 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:46 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:46 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:46 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:46 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:46 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:46 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:46 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:46 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/08/08_10:17:46 - FORMHANDLER called...
+23/08/08_10:17:46 - Form does not exist in current list of active forms
+23/08/08_10:17:46 - Getting current active form's ID in the active forms list
+23/08/08_10:17:46 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_10:53:00 - Checking for all required folders to exist...
+23/08/08_10:53:00 - FORMHANDLER called...
+23/08/08_10:53:00 - Form does not exist in current list of active forms
+23/08/08_10:53:00 - Getting current active form's ID in the active forms list
+23/08/08_10:53:00 - REFRESHING forms...
+23/08/08_10:53:00 - App loaded with no errors!
+23/08/08_10:53:02 - FORMHANDLER called...
+23/08/08_10:53:02 - Form does not exist in current list of active forms
+23/08/08_10:53:02 - Getting current active form's ID in the active forms list
+23/08/08_10:53:02 - REFRESHING forms...
+23/08/08_10:53:02 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:53:02 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:53:02 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:53:02 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:53:02 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_10:53:03 - FORMHANDLER called...
+23/08/08_10:53:03 - Form does not exist in current list of active forms
+23/08/08_10:53:03 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_10:53:09 - Getting current active form's ID in the active forms list
+23/08/08_10:53:09 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_10:56:09 - Checking for all required folders to exist...
+23/08/08_10:56:10 - FORMHANDLER called...
+23/08/08_10:56:10 - Form does not exist in current list of active forms
+23/08/08_10:56:10 - Getting current active form's ID in the active forms list
+23/08/08_10:56:10 - REFRESHING forms...
+23/08/08_10:56:10 - App loaded with no errors!
+23/08/08_10:56:11 - FORMHANDLER called...
+23/08/08_10:56:11 - Form does not exist in current list of active forms
+23/08/08_10:56:11 - Getting current active form's ID in the active forms list
+23/08/08_10:56:11 - REFRESHING forms...
+23/08/08_10:56:11 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:56:11 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:56:11 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:56:11 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:56:11 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_10:56:12 - FORMHANDLER called...
+23/08/08_10:56:12 - Form does not exist in current list of active forms
+23/08/08_10:56:12 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_10:56:21 - Getting current active form's ID in the active forms list
+23/08/08_10:56:21 - REFRESHING forms...
+================
+   New Session  
+================
+23/08/08_10:57:26 - Checking for all required folders to exist...
+23/08/08_10:57:26 - FORMHANDLER called...
+23/08/08_10:57:26 - Form does not exist in current list of active forms
+23/08/08_10:57:26 - Getting current active form's ID in the active forms list
+23/08/08_10:57:26 - REFRESHING forms...
+23/08/08_10:57:26 - App loaded with no errors!
+23/08/08_10:57:27 - FORMHANDLER called...
+23/08/08_10:57:27 - Form does not exist in current list of active forms
+23/08/08_10:57:27 - Getting current active form's ID in the active forms list
+23/08/08_10:57:27 - REFRESHING forms...
+23/08/08_10:57:27 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:57:27 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:57:27 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:57:27 - Deserializing ExamPrepper.Classes.ExamFormData+ExamTask to JSON data
+23/08/08_10:57:27 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_10:57:28 - FORMHANDLER called...
+23/08/08_10:57:28 - Form does not exist in current list of active forms
+23/08/08_10:57:28 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/08_10:57:30 - Getting current active form's ID in the active forms list
+23/08/08_10:57:30 - REFRESHING forms...

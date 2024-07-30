@@ -1,0 +1,13 @@
+LOG FILE FOR 16/10/2023
+===================================================
+  Logging started
+===================================================
+================
+   New Session  
+================
+23/10/16_12:31:07 - Checking for all required folders to exist...
+23/10/16_12:31:07 - FORMHANDLER called...
+23/10/16_12:31:07 - Form does not exist in current list of active forms
+23/10/16_12:31:08 - Getting current active form's ID in the active forms list
+23/10/16_12:31:08 - REFRESHING forms...
+23/10/16_12:31:08 - App loaded with no errors!

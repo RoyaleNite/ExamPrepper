@@ -1,0 +1,28 @@
+{
+  "Task_ID": "13082023065746240",
+  "Task_Name": "Test Task 10",
+  "Task_Subject": {
+    "SubjectID": "05082023095154328",
+    "Name": "Physics",
+    "Description": "Physics is also not fun"
+  },
+  "Question": [
+    {
+      "Question": "das ads  --- a dsads --- ",
+      "Memo": [
+        {
+          "Answer": "asd",
+          "CaseSensitive": false,
+          "CorrectMarkCount": 0
+        },
+        {
+          "Answer": "asdfds",
+          "CaseSensitive": true,
+          "CorrectMarkCount": 0
+        }
+      ],
+      "MarkCount": 3,
+      "QuestionType": "FillBlank"
+    }
+  ]
+}

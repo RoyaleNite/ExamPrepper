@@ -1,0 +1,27 @@
+LOG FILE FOR 29/10/2023
+===================================================
+  Logging started
+===================================================
+================
+   New Session  
+================
+23/10/29_12:23:24 - Checking for all required folders to exist...
+23/10/29_12:23:24 - FORMHANDLER called...
+23/10/29_12:23:24 - Form does not exist in current list of active forms
+23/10/29_12:23:24 - Getting current active form's ID in the active forms list
+23/10/29_12:23:24 - REFRESHING forms...
+23/10/29_12:23:24 - App loaded with no errors!
+23/10/29_12:23:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/10/29_12:23:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/10/29_12:23:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/10/29_12:23:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/10/29_12:23:27 - Deserializing ExamPrepper.Classes.ExamFormData+Exam to JSON data
+23/10/29_12:23:27 - FORMHANDLER called...
+23/10/29_12:23:27 - Form does not exist in current list of active forms
+23/10/29_12:23:27 - Deserializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/10/29_12:23:27 - Getting current active form's ID in the active forms list
+23/10/29_12:23:27 - REFRESHING forms...
+23/10/29_12:23:29 - FORMHANDLER called...
+23/10/29_12:23:29 - Form does not exist in current list of active forms
+23/10/29_12:23:32 - Getting current active form's ID in the active forms list
+23/10/29_12:23:32 - REFRESHING forms...

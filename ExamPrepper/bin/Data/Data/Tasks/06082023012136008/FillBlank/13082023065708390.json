@@ -1,0 +1,28 @@
+{
+  "Task_ID": "13082023065708392",
+  "Task_Name": "Test Task 9",
+  "Task_Subject": {
+    "SubjectID": "06082023012136008",
+    "Name": "IGO",
+    "Description": "Teken goed"
+  },
+  "Question": [
+    {
+      "Question": "ads  --- as d ads --- as d asd ads",
+      "Memo": [
+        {
+          "Answer": "123",
+          "CaseSensitive": false,
+          "CorrectMarkCount": 0
+        },
+        {
+          "Answer": "sdf",
+          "CaseSensitive": true,
+          "CorrectMarkCount": 0
+        }
+      ],
+      "MarkCount": 2,
+      "QuestionType": "FillBlank"
+    }
+  ]
+}

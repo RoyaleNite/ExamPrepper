@@ -1,0 +1,14 @@
+LOG FILE FOR 21/08/2023
+===================================================
+  Logging started
+===================================================
+================
+   New Session  
+================
+23/08/21_08:19:16 - Checking for all required folders to exist...
+23/08/21_08:19:16 - Serializing System.Collections.Generic.List`1[ExamPrepper.Classes.ExamFormData+Subject] to JSON data
+23/08/21_08:19:17 - FORMHANDLER called...
+23/08/21_08:19:17 - Form does not exist in current list of active forms
+23/08/21_08:19:17 - Getting current active form's ID in the active forms list
+23/08/21_08:19:17 - REFRESHING forms...
+23/08/21_08:19:17 - App loaded with no errors!

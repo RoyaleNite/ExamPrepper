@@ -1,0 +1,13 @@
+LOG FILE FOR 02/01/2024
+===================================================
+  Logging started
+===================================================
+================
+   New Session  
+================
+24/01/02_07:21:28 - Checking for all required folders to exist...
+24/01/02_07:21:29 - FORMHANDLER called...
+24/01/02_07:21:29 - Form does not exist in current list of active forms
+24/01/02_07:21:29 - Getting current active form's ID in the active forms list
+24/01/02_07:21:29 - REFRESHING forms...
+24/01/02_07:21:29 - App loaded with no errors!

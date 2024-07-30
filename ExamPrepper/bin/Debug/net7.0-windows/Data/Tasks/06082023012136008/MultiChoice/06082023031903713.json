@@ -1,0 +1,33 @@
+{
+  "Task_ID": "13082023043206573",
+  "Task_Name": "Test Task 3 Edited",
+  "Task_Subject": {
+    "SubjectID": "06082023012136008",
+    "Name": "IGO",
+    "Description": "Teken goed"
+  },
+  "Question": [
+    {
+      "Question": "dfs adfsadsfadfs efa waefs adfs12 3123 213 123",
+      "Memo": [
+        {
+          "Answer": "waesfr",
+          "CaseSensitive": false,
+          "CorrectMarkCount": 0
+        },
+        {
+          "Answer": "ertg dfsg ",
+          "CaseSensitive": false,
+          "CorrectMarkCount": 0
+        }
+      ],
+      "Distractors": [
+        "5t46 345 345 ",
+        "shgt ",
+        "234"
+      ],
+      "MarkCount": 3,
+      "QuestionType": "MultipleChoice"
+    }
+  ]
+}

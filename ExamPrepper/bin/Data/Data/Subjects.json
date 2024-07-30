@@ -1,0 +1,17 @@
+[
+  {
+    "SubjectID": "01082023093456750",
+    "Name": "Math",
+    "Description": "Math is not fun"
+  },
+  {
+    "SubjectID": "05082023095154328",
+    "Name": "Physics",
+    "Description": "Physics is also not fun"
+  },
+  {
+    "SubjectID": "06082023012136008",
+    "Name": "IGO",
+    "Description": "Teken goed"
+  }
+]

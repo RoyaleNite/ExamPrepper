@@ -1,0 +1,49 @@
+{
+  "ResultID": "21082023075034387",
+  "ExamID": "18082023123203468",
+  "MarkPercentage": 55.56,
+  "TotalMarks": 18.0,
+  "TotalCorrectMarks": 10.0,
+  "Answers": [
+    {
+      "Answer": "",
+      "CorrectMarkCount": 5.0
+    },
+    {
+      "Answer": " 123   1",
+      "CorrectMarkCount": 1.33
+    },
+    {
+      "Answer": " 123   1",
+      "CorrectMarkCount": 0.0
+    },
+    {
+      "Answer": " 123   1",
+      "CorrectMarkCount": 0.0
+    },
+    {
+      "Answer": "TRUE",
+      "CorrectMarkCount": 2.0
+    },
+    {
+      "Answer": "asd",
+      "CorrectMarkCount": 1.5
+    },
+    {
+      "Answer": "asd",
+      "CorrectMarkCount": 0.0
+    },
+    {
+      "Answer": "TRUE",
+      "CorrectMarkCount": 0.0
+    },
+    {
+      "Answer": "asd",
+      "CorrectMarkCount": 0.0
+    },
+    {
+      "Answer": "asd",
+      "CorrectMarkCount": 0.0
+    }
+  ]
+}

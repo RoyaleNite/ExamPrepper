@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ExamPrepper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Exam_Storage_Path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">./Data/Exams</Value>
+    </Setting>
+    <Setting Name="Quiz_Storage_Path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">./Data/Quizzes</Value>
+    </Setting>
+    <Setting Name="FontName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Calibri Light</Value>
+    </Setting>
+    <Setting Name="ActiveSubject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="Task_Storage_Path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">./Data/Tasks</Value>
+    </Setting>
+    <Setting Name="Heading_Color" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="LogFile_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">./Data/Logs</Value>
+    </Setting>
+    <Setting Name="Audio" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Results_Storage_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">./Data/Results</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
